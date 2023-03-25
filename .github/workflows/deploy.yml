@@ -19,5 +19,5 @@ jobs:
           mkdir Volodymyr
           cd Volodymyr
           touch test.php
-          git clone https://github.com/VGarpi/friendly-engine.git
+          git clone https://github.com/VGarpi/laboratorna.git
           echo 'Deployment successful to digitsal ocean1'
